@@ -1,0 +1,21 @@
+.btn-container{
+   width:100%; 
+   margin:1rem 0rem;
+   
+}
+ .color{
+    background-color: rgb(247, 82, 82);
+ }
+ .green{
+    background-color: rgb(86, 212, 86);
+ }
+ 
+.btn{
+  width:100%;  
+  
+  border-style: none;
+  
+  border-radius: .4rem;
+  padding:.5rem 1rem;
+  cursor: pointer;
+}

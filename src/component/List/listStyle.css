@@ -1,0 +1,27 @@
+.list-item{
+   width:100%; 
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.button-container{
+   width:40%; 
+   display:flex;
+    justify-content: space-between;  
+}
+.edit{
+  background-color: lightgreen;
+  border-style: none;
+  
+  padding:.5rem .8rem;
+  border-radius: .5rem;
+  cursor: pointer;
+}
+.delete{
+    background-color:rgb(230, 69, 69);
+    border-style: none;
+    
+    padding:.5rem .8rem;
+    border-radius: .5rem;
+    cursor: pointer;
+  }
